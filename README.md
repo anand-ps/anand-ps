@@ -9,22 +9,22 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 ## Core Stack
 
 **Backend**  
-![Java](https://img.shields.io/badge/Java-21-1B365D)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-2C7A7B)
+![Java](https://img.shields.io/badge/Java-21-F97316)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-22C55E)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-TypeScript-0EA5E9)
-![PrimeReact](https://img.shields.io/badge/PrimeReact-UI-0284C7)
+![React](https://img.shields.io/badge/React-TypeScript-38BDF8)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-UI-0EA5E9)
 
 **Database**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-334155)
-![Oracle Database](https://img.shields.io/badge/Oracle-Database-7F1D1D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-6366F1)
+![Oracle Database](https://img.shields.io/badge/Oracle-Database-E11D48)
 
 **Systems**  
-![JWT Auth](https://img.shields.io/badge/Auth-JWT-374151)
-![Token Control](https://img.shields.io/badge/Token-Control-4B5563)
-![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20Edge--Cloud-6D28D9)
-![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-065F46)
+![JWT Auth](https://img.shields.io/badge/Auth-JWT-0F172A)
+![Token Control](https://img.shields.io/badge/Token-Control-334155)
+![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20Edge--Cloud-8B5CF6)
+![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-14B8A6)
 
 ---
 
