@@ -23,7 +23,7 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 **Systems**  
 ![JWT Auth](https://img.shields.io/badge/Auth-JWT-000000)
 ![Token Control](https://img.shields.io/badge/Token-Control-4A90E2)
-![Local First](https://img.shields.io/badge/Architecture-Local--First-8E44AD)
+![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20Edge--Cloud-8E44AD)
 ![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-2ECC71)
 
 ---
