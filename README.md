@@ -6,16 +6,6 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 
 ---
 
-## Engineering Focus
-
-- Distributed backend systems (low-latency, fault-tolerant)
-- Embedded systems and firmware-level integration
-- Hardware–software interfacing
-- Offline-first and edge-computing architectures
-- API design and system orchestration
-
----
-
 ## Core Stack
 
 **Backend**  
@@ -35,6 +25,16 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 ![Token Control](https://img.shields.io/badge/Token-Control-4A90E2)
 ![Local First](https://img.shields.io/badge/Architecture-Local--First-8E44AD)
 ![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-2ECC71)
+
+---
+
+## Engineering Focus
+
+- Distributed backend systems (low-latency, fault-tolerant)
+- Embedded systems and firmware-level integration
+- Hardware–software interfacing
+- Offline-first and edge-computing architectures
+- API design and system orchestration
 
 ---
 
