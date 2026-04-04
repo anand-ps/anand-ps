@@ -18,22 +18,23 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 
 ## Core Stack
 
-**Backend**
-- Java
-- Spring Boot
+**Backend**  
+![Java](https://img.shields.io/badge/Java-21-007396)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F)
 
-**Frontend**
-- React (TypeScript)
-- PrimeReact
+**Frontend**  
+![React](https://img.shields.io/badge/React-TypeScript-61DAFB)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-UI-007AD9)
 
-**Database**
-- PostgreSQL
-- Oracle Database
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791)
+![Oracle Database](https://img.shields.io/badge/Oracle-Database-F80000)
 
-**Systems**
-- JWT-based authentication and token control
-- Local-first system design
-- Edge-device communication over LAN
+**Systems**  
+![JWT Auth](https://img.shields.io/badge/Auth-JWT-000000)
+![Token Control](https://img.shields.io/badge/Token-Control-4A90E2)
+![Local First](https://img.shields.io/badge/Architecture-Local--First-8E44AD)
+![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-2ECC71)
 
 ---
 
