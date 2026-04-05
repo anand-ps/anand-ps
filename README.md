@@ -22,11 +22,11 @@ Engineer specializing in distributed backend architectures, embedded systems, fi
 ![Architecture](https://img.shields.io/badge/Architecture-Hybrid%20Edge--Cloud-8B5CF6)
 ![Edge Communication](https://img.shields.io/badge/Edge-LAN%20Communication-14B8A6)
 
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-1F2937)
-![Firmware](https://img.shields.io/badge/Firmware-C%2FC%2B%2B-374151)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-MCU-4B5563)
-![UART](https://img.shields.io/badge/Protocol-UART-6B7280)
-![I2C](https://img.shields.io/badge/Protocol-I2C-6B7280)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-0D9488)
+![Firmware](https://img.shields.io/badge/Firmware-C%2FC%2B%2B-DC2626)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-MCU-7C3AED)
+![UART](https://img.shields.io/badge/Protocol-UART-2563EB)
+![I2C](https://img.shields.io/badge/Protocol-I2C-16A34A)
 
 ---
 
